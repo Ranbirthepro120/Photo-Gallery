@@ -1,0 +1,44 @@
+#Logo {
+    width: 500;
+    height: 200;
+    text-align: center;
+}
+.hi {
+    width: 289px;
+    height: 430px;
+}
+.parallax-inner {
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+#1 {
+    text-align: center;
+    background: linear-gradient(white 0%, cyan 30%,cyan 70%, white 100%);
+}
+.lets go {
+    width: 500px;
+}
+#myCarousel{ 
+    background-color: goldenrod; 
+}
+#myCarousel img{
+    height : 300px;
+    margin-top: 35px; 
+}
+.carousel-inner p{ 
+    margin-top:15px;
+    margin-bottom: 15px;
+    color:purple;
+    font-size: 20px; 
+}
+h2 {
+  text-shadow: 5px 3px darkcyan;
+  font-size: 30px;
+  color: cyan;
+  font-family: arial-black;
+  font-variant: small-caps;
+}
+.img-responsive {
+    margin-left: 275px;
+    }
